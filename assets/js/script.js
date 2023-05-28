@@ -17,4 +17,3 @@ const relogio = setInterval(function time(){
     segundos.textContent = s;
 
 })
-    
